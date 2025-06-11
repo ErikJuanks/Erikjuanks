@@ -67,7 +67,7 @@
 
 
 ## Github Stats  
-<div align="center">https://github-readme-stats.vercel.app/api?username=Erikjuanks&theme=gruvbox&show_icons=true&hide_border=false&count_private=true</div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Erikjuanks&theme=gruvbox&show_icons=true&hide_border=false&count_private=true" alt="stats"></div>  
 
 <br/>  
 
