@@ -21,7 +21,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Minhas Habilidades  
 <table><tr><td valign="top" width="33%">
 
 
@@ -40,7 +40,7 @@
 <br/>  
 
 
-## Connect with me  
+## Fale comigo!  
 <div align="center">
 <a href="https://github.com/https://github.com/ErikJuanks" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -57,29 +57,9 @@
 <br/>  
 
 
-## Github Stats  
+## Status do GitHub
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Erikjuanks&theme=gruvbox&show_icons=true&hide_border=false&count_private=true" alt="stats"> <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erikjuanks&theme=gruvbox&show_icons=true&hide_border=false&layout=compact" alt="Most Used Linguage">
 </div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
