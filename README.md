@@ -67,7 +67,9 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Erikjuanks&theme=gruvbox&show_icons=true&hide_border=false&count_private=true" alt="stats"></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Erikjuanks&theme=gruvbox&show_icons=true&hide_border=false&count_private=true" alt="stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erikjuanks&theme=gruvbox&show_icons=true&hide_border=false&layout=compact" alt="Most Used Linguage">
+</div>  
 
 <br/>  
 
